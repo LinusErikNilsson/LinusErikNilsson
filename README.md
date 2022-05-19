@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @LinusErikNilsson studying on the .NET developer programme on Borås University of Applied Science/Borås Yrkeshögskola.
 
-- 👀 I’m interested in: Many things within .NET, API's, Blazor, MAUI, EF core and more. Also have an intrest in Windows, been a Windows Insider since 2015.
+- 👀 I’m interested in: Many things within .NET, API's, Blazor, MAUI. 
+- 🖥️ Also I have an intrest in Windows and trying out new versions, I've a member of the Windows Insider Program since 2015.
 
-- 🌱 I’m currently learning: Webdevelopment, starting with HTML5 and CSS, and continuing with JavaScript and React.
+- 🌱 I’m currently learning: Web development, starting with HTML5 and CSS, and continuing with JavaScript and React.
+
+- 💻 Upcoming sideprojects: Learning MAUI and CosmosDB.
 
 - 💞️ I’m looking to collaborate on: Anything really.
 
