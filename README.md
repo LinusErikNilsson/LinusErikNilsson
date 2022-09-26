@@ -4,7 +4,9 @@
 
 - 🖥️ Also I have an intrest in Windows and trying out new versions, I've a member of the Windows Insider Program since 2015 testing and sending feedback to help improve Windows.
 
-- 🌱 I’m currently learning: Web development, starting with HTML5 and CSS, and continuing with JavaScript and React.
+- 🌱 I’m currently learning: Application development in React Native.
+
+- 📄I have knowledge of: .NET, C#, ASP.NET, SQL, TypeScript, Node.js, React.
 
 - 💻 Upcoming sideprojects: Learning .NET MAUI and Azure CosmosDB.
 
