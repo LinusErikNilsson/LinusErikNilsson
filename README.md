@@ -4,7 +4,7 @@
 
 - 🖥️ I'm also intrested in Windows OS and trying out new versions, I've a member of the Windows Insider Program since 2015 testing and sending feedback to help improve the OS.
 
-- 🌱 I’m currently learning: Application development in React Native and .NET MAUI.
+- 🌱 I’m currently learning: .NET MAUI and ASP.NET Blazor
 
 - 📄I have knowledge of: .NET, C#, ASP.NET, SQL, Javascript, TypeScript, Node.js, React/React Native.
 
