@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Linus
--
+
 - 👨‍🎓 .NET System developer/Systemutvecklare .NET examen from Borås University of Applied Science/Borås Yrkeshögskola.
 
 - 👀 I’m interested in: Many things, but mostly within .NET ecosystem.
@@ -14,7 +14,7 @@
 
 - 💞️ I’m looking to collaborate on: Anything really.
 
-- 📫 How to reach me: @ me at twitter: @NilssonELinus
+- 📫 How to reach me: @ me at Threads: @LinusErikNilsson
 
 <!---
 LinusErikNilsson/LinusErikNilsson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
